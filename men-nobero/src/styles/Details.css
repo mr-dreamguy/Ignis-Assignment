@@ -1,0 +1,16 @@
+.price {
+  font-size: x-large;
+}
+
+.mrp {
+  color: gray;
+}
+
+.discount {
+  font-size: xx-large;
+  color: greenyellow;
+}
+
+.weekly-sale {
+  color: red;
+}
